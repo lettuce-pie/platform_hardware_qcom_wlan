@@ -20,6 +20,7 @@
 #include <netlink-private/object-api.h>
 #include <netlink-private/types.h>
 #include <dlfcn.h>
+#include <errno.h>
 #include <pthread.h>
 
 #include "wifi_hal.h"

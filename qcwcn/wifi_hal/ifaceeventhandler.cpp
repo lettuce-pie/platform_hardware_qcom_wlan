@@ -26,6 +26,7 @@
  * IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
+#include <errno.h>
 #include "sync.h"
 #define LOG_TAG  "WifiHAL"
 #include <utils/Log.h>
